@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @1Chickxn
+- 👀 I’m interested in learning new languages
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me 1Chickxn#6198
