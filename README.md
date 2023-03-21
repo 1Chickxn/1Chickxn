@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @1Chickxn
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me 1Chickxn#0088
