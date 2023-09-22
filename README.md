@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1chickxn&label=Profile%20views&color=0e75b6&style=flat" alt="1chickxn" /> </p>
 
-- 🔭 I’m currently working on tropic-host [tropic-host.de](https://tropic-host.de)
 
 - 🌱 I’m currently learning **Typescript**
 
